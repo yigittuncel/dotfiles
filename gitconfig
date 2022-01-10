@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yigittuncel35@gmail.com
+	name = yigit tuncel
